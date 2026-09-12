@@ -1,0 +1,7 @@
+{
+  "name": "SkillBridge - Education to Industry Skill-Gap & Career Platform",
+  "description": "Smart India Hackathon platform bridging the gap between student academic skills, industry requirements, and academic visibility through transparent skill-gap analysis, internship matching, and an AI career advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
